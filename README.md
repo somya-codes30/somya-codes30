@@ -49,11 +49,11 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/somya-srivastava-89055a367/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="somya.srivastava2005@gmail.com/">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -61,8 +61,3 @@
 
 ---
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=7F3FBF&style=flat)
-
-</div>
