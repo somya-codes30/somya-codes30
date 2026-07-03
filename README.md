@@ -13,7 +13,7 @@
 - 🎓 B.Tech Computer Science Engineering @ **RKGIT**
 - 🌱 Learning **Java, DSA & Full Stack Development**
 - 🚀 Passionate about Software Development & Problem Solving
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **somya.srivastava2005@gmail.com**
 
 ---
 
